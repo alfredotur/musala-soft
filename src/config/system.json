@@ -1,0 +1,26 @@
+{
+  "warningTime": 15,
+  "timeUpdatePerfil": 5,
+  "signoutTime": 31,
+  "timeSession": 24,
+  "itemsPorPagina": 5,
+  "attempts": 3,
+  "blockTime": 300,
+  "responseTime": 3000,
+  "icon": {
+    "Cantidad Conexiones": "fa fa-wifi",
+    "Tráfico Total": "fa fa-cloud",
+    "Tiempo Total": "fa fa-clock-o",
+    "Total Bajada": "fa fa-cloud-download",
+    "Total Subida": "fa fa-cloud-upload",
+    "Importe Total": "fa fa-usd"
+  },
+  "color": {
+    "0": "#f17b00",
+    "1": "#42ae49",
+    "2": "#118a77",
+    "3": "#522b86",
+    "4": "#3580c3",
+    "5": "#7b1f82"
+  }
+}

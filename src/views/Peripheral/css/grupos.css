@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.card-grupos {
+    width: 70%;
+}
+
+.card-actions {
+    display: flex;
+    justify-content: center;
+}
+
+.icon-eliminar-grupo{
+    color: red;
+}

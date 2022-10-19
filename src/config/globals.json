@@ -1,0 +1,36 @@
+{
+  "urlserverexpres":"https://nauta-test.etecsa.cu:5002",
+
+  "base":{
+    "urlbase": "http://172.28.32.147:8080/GesnautaRestWS/servicios/portalUsuarios/",
+    "authbase": "http://172.28.32.147:8080/GesnautaRestWS/servicios/auth",
+    "authorization": "Basic",
+    "user": "portalApplication",
+    "pass": "p@ssw0rd"
+  },
+
+  "authenticate":{
+    "url":"autenthicateAccount",
+    "type": "get"
+  },
+
+  "registrar_user":{
+    "url":"registrarUsuarioPortal",
+    "type": "post"
+  },
+
+  "update_perfil_ByUser":{
+    "url":"updatePerfilPorUsuario",
+    "type": "post"
+  },
+
+  "update_perfil_ByService":{
+    "url":"updatePerfilPorServicio",
+    "type": "post"
+  },
+
+  "actualizarPerfil": {
+    "time": 5
+  }
+
+}

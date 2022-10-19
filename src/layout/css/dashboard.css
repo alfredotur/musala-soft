@@ -1,0 +1,39 @@
+.root_dashboard {
+    /*display: flex;*/
+}
+
+.content-dashboard {
+    flex-grow: 1;
+    height: 100%;
+    overflow: auto;
+}
+
+.container_dashboard {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.titulo_header {
+    font-size: 20px;
+}
+
+.containerMenuOpciones {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textoMenuOpciones {
+    color: #000066;
+    font-weight: bold !important;
+    font-size: 16pt !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+.color-texto-menu {
+    color: #000066;
+}
+
+.color-icon-menu{
+    color: #000066;
+}

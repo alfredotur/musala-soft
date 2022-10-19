@@ -1,0 +1,17 @@
+.container-usuarios {
+    display: flex;
+    justify-content: center;
+}
+
+.card-usuarios {
+    width: 70%;
+}
+
+.card-actions-usuarios {
+    display: flex;
+    justify-content: center;
+}
+
+.icon-eliminar-usuario {
+    color: red;
+}

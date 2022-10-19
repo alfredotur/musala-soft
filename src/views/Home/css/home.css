@@ -1,0 +1,58 @@
+.fragment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.title-service {
+    font-weight: bold;
+    font-family: MyriadPro-SemiboldCond !important;
+}
+
+.value-service {
+    font-family: MyriadPro-SemiboldCond !important;
+    font-size: 13pt;
+}
+
+.card-header {
+    color: #0e1b8d;
+}
+
+.contenido {
+    text-align: center;
+    margin-top: 40px !important;
+}
+
+.footer {
+    background-color: #FFFFFF;
+}
+
+.full-width {
+    width: 100%;
+    background-color: #0e1b89;
+    height: 3px;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.notificaciones {
+    margin-left: 0rem;
+}
+
+.color {
+    color: #000066;
+}
+
+.textNotificaciones {
+    font-family: MyriadPro-SemiboldCond !important;
+}
+
+@media screen and (max-width: 720px) {
+    .fragment {
+        padding-left: 100px;
+        padding-right: 100px;
+        margin-bottom: 5rem;
+    }
+}

@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "MyriadPro-Black";
+  src: local("MyriadPro-Black"),
+  url("./static/fonts/MyriadPro-Black.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "MyriadPro-SemiCn";
+  src: local("MyriadPro-SemiCn"),
+  url("./static/fonts/MyriadPro-SemiCn.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "MyriadPro-Cond";
+  src: local("MyriadPro-Cond"),
+  url("./static/fonts/MyriadPro-Cond.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "MyriadPro-LightCond";
+  src: local("MyriadPro-LightCond"),
+  url("./static/fonts/MyriadPro-LightCond.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "MyriadPro-BoldCond";
+  src: local("MyriadPro-BoldCond"),
+  url("./static/fonts/MyriadPro-BoldCond.otf") format("opentype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "MyriadPro-SemiboldCond";
+  src: local("MyriadPro-SemiboldCond"),
+  url("./static/fonts/MyriadPro-SemiboldCond.otf") format("opentype");
+  font-weight: normal;
+}
